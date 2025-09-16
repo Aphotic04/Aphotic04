@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ty Steinbach; AKA @Aphotic04
 - 👀 I’m interested in coding, video games, cooking, and Magic the Gathering
-- 🎓 I'm pursuing a bachelor's in Computer Science
+- 🎓 I have a bachelor's in Computer Science
 - 🌱 I’m currently (or soon to be) learning Server Side Design, Software Engineering, and Data Structures and Algorithms
 - 📫 How to reach me: tysteinbach@gmail.com
 - 😄 Pronouns: He/Him
